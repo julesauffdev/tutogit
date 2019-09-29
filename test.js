@@ -1,6 +1,6 @@
 let test = "test"
 let newValue = "toto"
-let conf2 = {
-    root: '/linux767',
+let conf = {
+    root: '/linux',
     path: '/home/user'
 }
