@@ -1,2 +1,2 @@
 let a = "a"
-let b = "toto"
+let b = "b"
